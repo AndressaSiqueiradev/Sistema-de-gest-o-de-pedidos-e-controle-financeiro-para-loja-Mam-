@@ -30,7 +30,7 @@ Instalação
 
 Clone o repositório:
 
-git clone https://github.com/andressasiqueirra/mamo.git
+git clone [https://github.com/andressasiqueirra/mamo.git](https://github.com/AndressaSiqueiradev/Sistema-de-gest-o-de-pedidos-e-controle-financeiro-para-loja-Mam-.git)
 cd Mamô 
 Crie e ative o ambiente virtual no Windows:
 
