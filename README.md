@@ -62,7 +62,7 @@ Os testes automatizados utilizam SQLite em memória, sem alterar os dados do ban
 
 Estrutura do projeto
 
-mogi-chopp/
+Mamô /
 ├── app/
 │   ├── database/
 │   ├── models/
